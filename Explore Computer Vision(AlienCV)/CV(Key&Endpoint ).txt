@@ -1,0 +1,8 @@
+key1:
+98a64fd3e3964dbd894b78537fa78dc6
+
+key2:
+1e87b63d1b53483fa5e8093d091c6076
+
+Endpoint:
+https://aliencv.cognitiveservices.azure.com/

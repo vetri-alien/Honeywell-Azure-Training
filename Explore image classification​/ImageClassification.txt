@@ -1,0 +1,8 @@
+key1:
+84554fd71f4f4218a53c3b3f7dd1ca69
+
+key2:
+bb5a95d8122e42d592f931a2960dcb45
+
+Endpoint:
+https://alienimgclassification.cognitiveservices.azure.com/

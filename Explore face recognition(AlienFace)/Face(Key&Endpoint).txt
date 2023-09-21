@@ -1,0 +1,8 @@
+key1:
+e02d26bd744943cab22f1f3719321955
+
+key2:
+bede49822f5a4fcb817025c7520b2327
+
+Endpoint:
+https://alienface.cognitiveservices.azure.com/

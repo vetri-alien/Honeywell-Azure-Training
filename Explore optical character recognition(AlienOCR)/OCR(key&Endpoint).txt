@@ -1,0 +1,8 @@
+key1:
+4868b26dcc7f44abad219326991026bf
+
+key2:
+804927667e144084871b53339f3ed5c4
+
+Endpoint:
+https://alienocr.cognitiveservices.azure.com/

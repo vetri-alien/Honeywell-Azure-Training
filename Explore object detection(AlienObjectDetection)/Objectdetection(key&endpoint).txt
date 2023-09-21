@@ -1,0 +1,15 @@
+key1:
+8e606a47e92243e4b91409b07a0f8cdc
+
+key2:
+03ee5709b7644c59a1f8552da3c8108a
+
+Endpoint:
+https://alienobjectdetection.cognitiveservices.azure.com/
+
+
+If you have an image URL:
+https://alienobjectdetection.cognitiveservices.azure.com/customvision/v3.0/Prediction/b3bb2911-2eb2-44ea-8d1f-4782f64795a4/detect/iterations/traffic-safety/url
+
+Prediction-Key:
+8e606a47e92243e4b91409b07a0f8cdc
