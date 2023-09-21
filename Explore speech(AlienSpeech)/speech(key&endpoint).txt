@@ -1,0 +1,8 @@
+key1:
+35db4d2e552d49129e30a36a9a7d1020
+
+key2:
+384c550f1ef34d008c824f31de959f1f
+
+Endpoint:
+https://aliensph.cognitiveservices.azure.com/

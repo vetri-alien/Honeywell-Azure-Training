@@ -1,0 +1,8 @@
+key1:
+c5ea14ab5ca24ada9b04a0c438fcb444
+
+key2:
+e624e6a835f743dc97549e1d0a6e15fd
+
+Endpoint:
+https://alientranslator.cognitiveservices.azure.com/

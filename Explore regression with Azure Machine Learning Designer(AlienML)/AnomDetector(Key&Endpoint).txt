@@ -1,0 +1,8 @@
+KEY1:
+03d124717d9445eb9f550c10992d9ca1
+
+KEY2:
+2f58961451db43d989498555e5650dde
+
+EndPoint:
+https://alienanmdetector.cognitiveservices.azure.com/

@@ -1,0 +1,8 @@
+key1:
+6b270a3f082c46eda2dbaba252a6e6b0
+
+key2:
+e7dd6c8694634dcab04377e52aa3e37d
+
+Endpoint:
+https://alientextanalytics.cognitiveservices.azure.com/
