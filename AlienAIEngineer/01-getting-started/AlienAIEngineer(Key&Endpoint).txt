@@ -1,0 +1,11 @@
+key1:
+40685da252f642778d3c71055876a050
+
+key2:
+f69b49d2bfae43ec859318efc71c59e7
+
+Location:
+centralindia
+
+Endpoint:
+https://alienaiengineer.cognitiveservices.azure.com/

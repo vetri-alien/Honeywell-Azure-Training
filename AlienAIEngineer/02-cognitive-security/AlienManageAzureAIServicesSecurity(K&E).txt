@@ -1,0 +1,23 @@
+key1:
+9ded97f18fba47b9a196fde5c407e2c1
+
+key2:
+2ae3bba8384645d0ac722fc58c778e6a
+
+location:
+centralindia
+
+Endpoint:
+https://alienmanageazureaiservicessecurity.cognitiveservices.azure.com/
+
+
+
+
+
+"appId": "35dc2e56-1c0e-4433-b2f8-e6724257f72a",
+  "displayName": "api://alienapp",
+  "password": "mUk8Q~WilP2dtt_mGeGUfRyD5a-D.0Pz~T.5wbLw",
+  "tenant": "2666d919-f1fc-4027-b9c5-212d4e95e68a"
+
+
+25c32181-087d-4d5c-8f7e-d3b0c561e120
