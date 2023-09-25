@@ -1,0 +1,11 @@
+key1:
+307c19e7a2d543b19645ff2731c1efb7
+
+key2:
+37e621e14203490e8ae9b9075e0e17c8
+
+location:
+centralindia
+
+endpoint:
+https://alienmonitor.cognitiveservices.azure.com/
