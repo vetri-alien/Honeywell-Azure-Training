@@ -1,0 +1,11 @@
+key1:
+bb44deca6b604d8fa070a7bd1c3a3c48
+
+key2:
+c976a8b0961e4e44b09ae732c0a9b98d
+
+location:
+eastus
+
+endpoint:
+https://alientranslator.cognitiveservices.azure.com/

@@ -1,0 +1,11 @@
+key1:
+895ab331c87e4cb6bf701f44c5fa2064
+
+key2:
+257f431ede4d4fcf849a545b2ce5f12f
+
+location:
+centralindia
+
+endpoint:
+https://centralindia.api.cognitive.microsoft.com/sts/v1.0/issuetoken

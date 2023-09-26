@@ -1,0 +1,18 @@
+key1:
+4db7ea3b5d224955a3821a4066c5f8cd
+
+key2:
+0e76756f0bd14c5fb5f9b2f6eb9e9012
+
+location:
+centralindia
+
+Endpoint:
+https://aliencontainer.cognitiveservices.azure.com/
+
+FQDN:
+aliendns.aqhdchfsb7b8g0at.centralindia.azurecontainer.io
+
+ docker run --rm -it -p 5000:5000 --memory 12g --cpus 1 mcr.microsoft.com/azure-cognitive-services/textanalytics/language:latest Eula=accept Billing=https://aliencontainer.cognitiveservices.azure.com/ ApiKey=4db7ea3b5d224955a3821a4066c5f8cd
+
+IPaddress: 20.207.116.4

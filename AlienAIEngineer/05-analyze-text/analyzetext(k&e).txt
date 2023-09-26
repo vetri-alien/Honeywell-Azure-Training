@@ -1,0 +1,11 @@
+key1:
+675fca5096634a9fb3a36e39187af881
+
+key2:
+9e76f230c5254f639b0d7fd14e1cde25
+
+location:
+centralindia
+
+endpoint:
+https://alienlang.cognitiveservices.azure.com/
