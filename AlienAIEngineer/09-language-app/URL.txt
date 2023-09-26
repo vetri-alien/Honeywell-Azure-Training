@@ -1,0 +1,6 @@
+Prediction URL:
+https://alienlanguage.cognitiveservices.azure.com/language/:analyze-conversations?api-version=2022-10-01-preview
+
+Sample request
+curl -X POST "https://alienlanguage.cognitiveservices.azure.com/language/:analyze-conversations?api-version=2022-10-01-preview" -H "Ocp-Apim-Subscription-Key: 23b2f97a93b6432a9209b5e4c4baa858"  -H "Apim-Request-Id: 4ffcac1c-b2fc-48ba-bd6d-b69d9942995a" -H "Content-Type: application/json" -d "{\"kind\":\"Conversation\",\"analysisInput\":{\"conversationItem\":{\"id\":\"PARTICIPANT_ID_HERE\",\"text\":\"YOUR_QUERY_HERE\",\"modality\":\"text\",\"language\":\"QUERY_LANGUAGE_HERE\",\"participantId\":\"PARTICIPANT_ID_HERE\"}},\"parameters\":{\"projectName\":\"Clock\",\"verbose\":true,\"deploymentName\":\"production\",\"stringIndexType\":\"TextElement_V8\"}}"
+
