@@ -1,0 +1,8 @@
+Project Id:
+cf947eb5-5072-41ed-9ebd-96a653a4152f
+
+key:
+c0e12a3b017744c9a6a3751c0eb31354
+
+endpoint:
+https://aliendetectobjects.cognitiveservices.azure.com/

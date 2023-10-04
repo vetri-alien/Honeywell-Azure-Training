@@ -1,0 +1,14 @@
+key1:
+5a5d1dc01d054480bc5cea551d62d3a9
+
+key2:
+50afe74d6283417c81e5916539443777
+
+Location:
+centralindia
+
+Endpoint:
+https://alienanalyzeimagesvision.cognitiveservices.azure.com/
+
+
+

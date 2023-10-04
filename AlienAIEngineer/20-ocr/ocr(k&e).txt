@@ -1,0 +1,11 @@
+key1:
+654f756f219845158d33b84742c3e9aa
+
+key2:
+3896cacfeafe4cc79dbbb356d2a7a5dc
+
+location:
+centralindia
+
+endpoint:
+https://alienreadtextinimages.cognitiveservices.azure.com/

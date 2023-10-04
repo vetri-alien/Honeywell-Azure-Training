@@ -1,0 +1,16 @@
+key1:
+7f2721540bdf45e9a524c827601b2d22
+
+key2:
+4dee9908521a469ab6073145bdfefc61
+
+location:
+centralindia
+
+endpoint:
+https://alienextractdatafromforms.cognitiveservices.azure.com/
+
+Subscription ID:
+d71bc372-9188-4ce3-8820-af3963e3abc5
+
+SAS URI: https://ai102form34758327.blob.core.windows.net/sampleforms?se=2024-01-01T00%3A00%3A00Z&sp=rwl&sv=2022-11-02&sr=c&sig=BF5FD6bC3jeUZxEI36Baw8MlKrC1nBUSRZu60kGY9Ac%3D

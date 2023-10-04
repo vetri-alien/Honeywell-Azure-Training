@@ -1,0 +1,9 @@
+Project Id:
+cc3a20ad-4536-4e3f-bc1d-847273a672af
+
+key:
+4b7c9291f5c44598935675eaa505da2e
+
+endpoint:
+https://alienclassifyimagescustomvision.cognitiveservices.azure.com/
+

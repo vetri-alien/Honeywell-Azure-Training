@@ -1,0 +1,11 @@
+key1:
+b7fa961d74954b28affc33e1d63322b2
+
+key2:
+3834d68d6f944e27a1f390419936a59d
+
+location:
+centralindia
+
+endpoint:
+https://aliendetectandanalyzefaces.cognitiveservices.azure.com/
