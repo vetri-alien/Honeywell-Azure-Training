@@ -1,0 +1,28 @@
+Subscription ID: d71bc372-9188-4ce3-8820-af3963e3abc5
+
+location:
+centralindia
+
+Storage account: ai102str319121389
+
+connectionString: DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=ai102str319121389;AccountKey=O56Z85RV6hSNccaLYZIgENkx5sEESZ7ZXfRltOTM1JwetCVg9mwyd/4AL1tERmXphdrTRBhqAXX8+AStaB0NGw==;BlobEndpoint=https://ai102str319121389.blob.core.windows.net/;FileEndpoint=https://ai102str319121389.file.core.windows.net/;QueueEndpoint=https://ai102str319121389.queue.core.windows.net/;TableEndpoint=https://ai102str319121389.table.core.windows.net/
+
+Azure AI Services account: ai102cog319121389
+
+key1: 75e4163af26a48499e19759898133e8c
+key2: 8dec578077924804bae4203696bd394b
+endpoint: https://centralindia.api.cognitive.microsoft.com/
+
+Search Service: ai102srch
+
+Url: https://ai102srch319121389.search.windows.net
+
+primaryKey: Y4eONxi5xxRWK63HDdOQ4id4BIM3Ou7Ma30psfmlVmAzSeD2dSks
+secondaryKey: 2U5AQRJZU6pprduNa7BiaMwqloGMFOy8cn3eDzSpq4AzSeCpDGkF
+
+Query Keys:
+
+key: PzxE5hgMzCgzMoNDEy2IwBgysidpne9QpH8lG6iHKgAzSeBB3VOF
+name: null
+
+https://alienfunction.azurewebsites.net/api/wordcount?code=ZSShKjRPO5TlmTCTU8YKX5_x8DFg01i60xe4bWJwKkxIAzFuHumqEw==

@@ -1,0 +1,15 @@
+Storage account: ai102str2490624751
+
+connectionString: DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=ai102str2490624751;AccountKey=/XI3/oX/De6dzqhwiTsnugNXpUhmk2c+CHhRu/eJuHcTM1itrNmzJvLZQXU/ADElZDleUd+aukb5+AStA41PVg==;BlobEndpoint=https://ai102str2490624751.blob.core.windows.net/;FileEndpoint=https://ai102str2490624751.file.core.windows.net/;QueueEndpoint=https://ai102str2490624751.queue.core.windows.net/;TableEndpoint=https://ai102str2490624751.table.core.windows.net/
+
+Azure AI Services account: ai102cog2490624751
+
+key1: 0b3a69ffca254db980d4d7c3da22c1ef
+key2: 355aa0cd277f4e4b999357ca7bfb2f9e
+
+Search Service: ai102srch
+
+Url: https://ai102srch2490624751.search.windows.net
+
+primaryKey: gZzPaIfB1MKOjAfWHyx0bhXrYLIm5WZavLYJCvafE6AzSeCzhFM1
+secondaryKey: bS9JTvePJVHamZK9zBa6V84NIrdflCzxaglAu8Odc8AzSeAByd8J
